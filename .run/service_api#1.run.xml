@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="service_api#1" type="HttpClient.HttpRequestRunConfigurationType"
+                   factoryName="HTTP Request" singleton="false" path="$PROJECT_DIR$/service_api.http"
+                   runType="Run single request">
+        <method v="2"/>
+    </configuration>
+</component>
